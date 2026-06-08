@@ -37,6 +37,7 @@ AI agents are revolutionizing how we work. This list focuses on **production-rea
 
 ## Automation Platforms
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring MCP server for Solana AI agents. Verify agent wallet identity and x402 micropayment readiness. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - **[Zapier AI](https://zapier.com/ai)** - Connect 5000+ apps with AI automation
 - **[Make (Integromat)](https://www.make.com)** - Visual automation platform
 - **[n8n](https://github.com/n8n-io/n8n)** - Open-source workflow automation
