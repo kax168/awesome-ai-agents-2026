@@ -48,6 +48,7 @@ AI agents are revolutionizing how we work. This list focuses on **production-rea
 - **[Puppeteer](https://github.com/puppeteer/puppeteer)** - Chrome automation by Google
 - **[Selenium](https://www.selenium.dev)** - Industry standard browser automation
 - **[BrowserBase](https://browserbase.com)** - Headless browser infrastructure for AI agents
+- **[agent-qa](https://vostride.com)** - Natural-language web and mobile testing with memidex persistent memory, validated self-improvement, and CLI/MCP access
 
 ---
 
