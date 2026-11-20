@@ -42,6 +42,8 @@ AI agents are revolutionizing how we work. This list focuses on **production-rea
 - **[n8n](https://github.com/n8n-io/n8n)** - Open-source workflow automation
 - **[Workbeaver](https://workbeaver.com)** - Prompt-based task automation
 
+- **[Zortex](https://zortex.me/en/install)** - Connects apps such as Google Drive and Calendar to an AI assistant, with local search over synced content.
+
 ## Browser Automation
 
 - **[Playwright](https://github.com/microsoft/playwright)** - Cross-browser automation library
